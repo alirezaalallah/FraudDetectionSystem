@@ -1,0 +1,16 @@
+org\alallah\ga\Chromosome.class
+org\alallah\ga\Transaction$Builder.class
+org\alallah\TestClass.class
+org\alallah\ga\EliteFinder.class
+org\alallah\ga\Transaction.class
+org\alallah\ga\Suspect.class
+org\alallah\ga\SuspectType.class
+org\alallah\ga\Chromosome$Builder.class
+org\alallah\ga\Detection.class
+org\alallah\GeneticApplication$MyReducer$FindOnes.class
+org\alallah\GeneticApplication.class
+org\alallah\ga\Genetic.class
+org\alallah\ga\Suspect$Builder.class
+org\alallah\ga\CalculatorUtil.class
+org\alallah\GeneticApplication$MyReducer.class
+org\alallah\GeneticApplication$TokenizerMapper.class
